@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+📄 [View My Academic CV](./Anwin_John_CV.pdf)
 <!--
 **anwinjohn98/anwinjohn98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
