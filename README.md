@@ -1,5 +1,12 @@
-## Hi there 👋
-📄 [View My Academic CV](./Anwin_John_CV.pdf)
+## Hi, I'm Anwin John 👋
+
+I'm a Ph.D. researcher specializing in **computational heterogeneous catalysis and atomistic simulations**, with a focus on understanding surface reactions and electrochemical processes using Density Functional Theory (DFT), Molecular Dynamics (AIMD) and Monte Carlo (MC) methods.
+
+My research interests include surface science, reaction mechanisms, electrocatalysis, and machine learning-assisted atomistic simulations.
+
+### 📄 Academic CV
+[View / Download My CV](./Anwin_John_CV.pdf)
+
 <!--
 **anwinjohn98/anwinjohn98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
