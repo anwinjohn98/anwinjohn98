@@ -1,6 +1,6 @@
 ## Hi, I'm Anwin John 👋
 
-I'm a Ph.D. researcher specializing in **computational heterogeneous catalysis and atomistic simulations**, with a focus on understanding surface reactions and electrochemical processes using Density Functional Theory (DFT), Molecular Dynamics (AIMD) and Monte Carlo (MC) methods.
+I'm a Ph.D. researcher specializing in **computational heterogeneous catalysis and atomistic simulations**, with a focus on understanding surface reactions and electrochemical processes using Density Functional Theory (DFT), Molecular Dynamics (MD) and Monte Carlo (MC) methods.
 
 My research interests include surface science, reaction mechanisms, electrocatalysis, and machine learning-assisted atomistic simulations.
 
